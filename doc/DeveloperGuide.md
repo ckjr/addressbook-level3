@@ -43,10 +43,19 @@ Priority | As a ... | I want to ... | So that I can...
 -------- | :-------- | :--------- | :-----------
 `* * *` | new user | see usage instructions | refer to instructions when I forget how to use the App
 `* * *` | user | add a new person |
+`* * *` | user | edit a person | update the person's details
 `* * *` | user | delete a person | remove entries that I no longer need
 `* * *` | user | find a person by name | locate details of persons without having to go through the entire list
 `* *` | user | hide [private contact details](#private-contact-detail) by default | to minimize chance of someone else seeing them by accident
+`* *` | new user | export and import contacts in a nice to read format |
+`* *` | user | look at the history of edits | rollback to that version of the addressbook I have at that point in time
+`* *` | user | be able to undo changes | revert mistakes
+`* *` | user | have the option to add multiple emails or phone numbers or addresses to a single person |
+`* *` | user | list all people with addresses or phone numbers or emails |
 `*` | user with many persons in the address book | sort persons by name | locate a person easily
+`*` | user | change the formatting of the app (customizability) |
+`*` | user | add multiple persons to the address book in a single line |
+`*` | user | get my last input command (like in CMD) |
 
 
 ## Appendix B : Use Cases
