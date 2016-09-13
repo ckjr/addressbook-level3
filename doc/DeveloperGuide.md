@@ -115,6 +115,15 @@ Use case ends.
 2. Should be able to hold up to 1000 persons.
 3. Should come with automated unit tests and open source code.
 4. Should favor DOS style commands over Unix-style commands.
+5. Should be able to hold up to 1000 tags per person.
+6. Should be able to save at every change.
+7. Should be able to handle all possible errors correctly at each input.
+8. Should be able to give a response to each input within the second.
+9. Should encrypt the addressBook to protect privacy.
+10. Should be able to import and export address books.
+11. Should be able to add functions easily without changing much of the existing code.
+12. Should not take too much memory during runtime.
+13. Should have a working backup of the current address book in the event of data corruption.
 
 ## Appendix D : Glossary
 
