@@ -29,7 +29,7 @@ public abstract class Command {
     /**
      * This method will return true for command types that mutate the data. e.g. AddCommand
      */
-    abstract boolean isMutating();
+    public abstract boolean isMutating();
     
 
     /**
