@@ -24,7 +24,7 @@ public class Logic {
     /** The list of person shown to the user most recently.  */
     private List<? extends ReadOnlyPerson> lastShownList = Collections.emptyList();
 
-    public Logic() throws Exception{
+    public Logic(Storage storage) throws Exception{
         setStorage(storage);
         setAddressBook(storage.load());
     }
